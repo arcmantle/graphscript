@@ -1,0 +1,1 @@
+Function names must be unique across the project. Reject a create or rename that would duplicate a name, and show a clear error.

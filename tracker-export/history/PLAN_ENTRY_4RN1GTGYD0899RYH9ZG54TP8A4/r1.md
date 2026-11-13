@@ -1,0 +1,1 @@
+When a node reads or writes a property in a state object, should the dependency identify that property, or only the state node as a whole? For example, should a link to `appState.counter` differ from a link to `appState.settings`? Recommended: identify the property and mark the link as read or write. This keeps the graph precise when one state object has many values.

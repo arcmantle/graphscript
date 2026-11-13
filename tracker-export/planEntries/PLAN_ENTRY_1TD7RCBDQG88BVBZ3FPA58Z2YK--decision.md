@@ -1,0 +1,1 @@
+Provide check, build, and optional watch mode through the CLI and VS Code. Check reports diagnostics without emitting output. Build emits output. Watch repeats checks and builds after saved source changes. Leave program execution to the selected runtime and debugger rather than adding an execution wrapper.

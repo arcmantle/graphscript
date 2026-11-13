@@ -1,0 +1,1 @@
+Each program-start file has one entry bundle. A dynamic import of a new GraphScript node emits a separate bundle for that node and its reachable graph. The dynamically imported node does not need the "graphscript:program"; directive and is not a program entry.

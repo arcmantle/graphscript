@@ -1,0 +1,1 @@
+When a function is renamed, should the tool update every source import that resolves to its stable function ID, as well as rename the function file, or should old imports remain unchanged and produce errors?

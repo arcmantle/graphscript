@@ -1,0 +1,1 @@
+The user is considering a top-of-file declaration that identifies a node file as a function, class, or state file. JavaScript calls the similar string-literal form a directive, such as the `use strict` directive. No GraphScript syntax is selected.

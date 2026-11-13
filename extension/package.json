@@ -1,0 +1,85 @@
+{
+	"name": "graphscript-explorer",
+	"displayName": "GraphScript Explorer",
+	"description": "Connects GraphScript projects to their local compiler.",
+	"version": "0.1.0",
+	"license": "Apache-2.0",
+	"repository": "https://github.com/arcmantle/graphscript.git",
+	"private": true,
+	"publisher": "arcmantle",
+	"engines": {
+		"vscode": "^1.105.0"
+	},
+	"extensionKind": [
+		"ui"
+	],
+	"main": "./extension.js",
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": "limited",
+			"description": "The project compiler requires workspace trust."
+		}
+	},
+	"contributes": {
+		"commands": [
+			{
+				"command": "graphscript.checkCompiler",
+				"title": "GraphScript: Check Project Compiler"
+			},
+			{
+				"command": "graphscript.setupProject",
+				"title": "GraphScript: Set Up Project"
+			},
+			{
+				"command": "graphscript.createNode",
+				"title": "GraphScript: Create Node"
+			},
+			{
+				"command": "graphscript.openGraph",
+				"title": "GraphScript: Open Function Graph"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"command": "graphscript.setupProject",
+					"when": "explorerResourceIsRoot",
+					"group": "navigation"
+				},
+				{
+					"command": "graphscript.createNode",
+					"when": "explorerResourceIsRoot",
+					"group": "navigation"
+				},
+				{
+					"command": "graphscript.openGraph",
+					"when": "resourceExtname == .ts && resourceDirname in graphscript.nodeDirectories",
+					"group": "navigation"
+				}
+			],
+			"editor/context": [
+				{
+					"command": "graphscript.openGraph",
+					"when": "resourceExtname == .ts && resourceDirname in graphscript.nodeDirectories",
+					"group": "navigation"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"test": "node --test test/compiler.test.cjs",
+		"test:host": "node test/run-host.cjs"
+	},
+	"graphscriptCompiler": "^0.1.0",
+	"dependencies": {
+		"cytoscape": "^3.34.4",
+		"semver": "^7.7.3"
+	},
+	"devDependencies": {
+		"@vscode/test-electron": "^2.5.2",
+		"playwright-core": "^1.56.1"
+	}
+}

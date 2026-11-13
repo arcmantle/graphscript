@@ -1,0 +1,1 @@
+The earlier answer allowed multiple functions per file, but file-based organization is not the developer workflow. The underlying storage format remains open.

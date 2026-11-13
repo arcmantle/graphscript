@@ -1,0 +1,1 @@
+The first release will support TypeScript and JavaScript output. The user will select one output language for each build.

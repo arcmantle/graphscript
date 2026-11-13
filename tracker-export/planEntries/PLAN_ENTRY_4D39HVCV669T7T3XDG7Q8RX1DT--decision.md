@@ -1,0 +1,1 @@
+The user chose automatic root detection. The rule that identifies root functions remains open.

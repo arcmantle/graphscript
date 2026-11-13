@@ -1,0 +1,1 @@
+The first release stores function files in one tool-managed directory. Developers navigate functions through the graph explorer.

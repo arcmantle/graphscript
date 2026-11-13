@@ -1,0 +1,1 @@
+The destination is a specification for the first usable GraphScript release.

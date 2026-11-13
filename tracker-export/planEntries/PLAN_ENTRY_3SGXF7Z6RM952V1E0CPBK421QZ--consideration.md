@@ -1,0 +1,1 @@
+A focused run on Node.js 24.22.1 passed the ordinary package-root consumer test. The computed-only local helper test failed with ERR_MODULE_NOT_FOUND because the helper was not staged. The staged-helper test reported that computed import and require loaded a file outside the staged project. These results do not establish a sandbox contract.

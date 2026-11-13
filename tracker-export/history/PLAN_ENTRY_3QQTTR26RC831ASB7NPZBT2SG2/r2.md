@@ -1,0 +1,1 @@
+Developers create graph nodes in the graph explorer instead of creating files in folders. Other nodes can import functions from a node.

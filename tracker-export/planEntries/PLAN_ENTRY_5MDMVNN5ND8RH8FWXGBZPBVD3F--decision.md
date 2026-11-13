@@ -1,0 +1,1 @@
+Use one special program-start file as the only root. Mark it with the first-statement string directive "graphscript:program";. The file can contain variables and other code and does not need to define a function. Compile this file and the GraphScript nodes it uses; exclude all other nodes.

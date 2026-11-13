@@ -1,0 +1,1 @@
+If automatic root detection finds no root, require the user to mark one or more root functions.

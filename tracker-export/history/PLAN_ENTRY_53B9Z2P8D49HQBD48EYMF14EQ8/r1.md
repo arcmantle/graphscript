@@ -1,0 +1,1 @@
+Are the tool-managed function files the project's source of truth and intended to be committed to version control, or are they generated from another canonical store?

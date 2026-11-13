@@ -1,0 +1,1 @@
+An import names a function, class, or shared state in the project graph. Its readable name is unique across the project and maps to a stable ID, not a file path; a dynamic import of a new node emits a separate bundle for its reachable graph, and the node does not need the program-start directive.

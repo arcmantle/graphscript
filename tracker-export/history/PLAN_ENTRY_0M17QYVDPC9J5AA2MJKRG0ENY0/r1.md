@@ -1,0 +1,1 @@
+Should selecting a function node open its location in a normal TypeScript file, rather than a custom function editor?

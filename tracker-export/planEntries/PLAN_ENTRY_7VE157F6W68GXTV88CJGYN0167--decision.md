@@ -1,0 +1,1 @@
+A program build may emit internal native ESM modules alongside its single entry file. The modules must travel with the entry. This permits an implementation that preserves module evaluation behavior; the implementation must verify that behavior.

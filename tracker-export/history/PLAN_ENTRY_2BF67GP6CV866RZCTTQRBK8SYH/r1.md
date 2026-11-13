@@ -1,0 +1,1 @@
+Should GraphScript reject dynamically imported file URLs when their source path is not available at the import call, including URLs that can have been constructed from either relative or absolute paths?

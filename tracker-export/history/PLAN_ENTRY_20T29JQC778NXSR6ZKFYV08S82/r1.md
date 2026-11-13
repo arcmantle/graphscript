@@ -1,0 +1,1 @@
+Should a `graphscript:state` file be a container that can export multiple named variables or objects, while each function or class node exports one definition? A dependency edge can name the state binding that it reads or writes, so one state file does not create one broad, unclear dependency. Recommended: use a multi-binding state node, with dependency links to named bindings.

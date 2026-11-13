@@ -1,0 +1,1 @@
+A dependency on a state object identifies the exact property and marks the access as read or write. For example, `appState.counter` is distinct from `appState.settings`.

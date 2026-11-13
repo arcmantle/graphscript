@@ -1,0 +1,1 @@
+Function files use readable function names. Collision and import rules remain for the function-identity ticket.

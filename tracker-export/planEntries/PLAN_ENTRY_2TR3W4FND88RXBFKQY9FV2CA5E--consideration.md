@@ -1,0 +1,1 @@
+A custom editor that separates functions from their TypeScript files may not work with existing editor tooling; prefer to assess native TypeScript editing before selecting node storage.

@@ -1,0 +1,1 @@
+Library output with one module per graph node and one generated ESM package-root entry that exports nodes by their unique readable names. It includes TypeScript declarations and is usable by ordinary JavaScript and TypeScript consumers without GraphScript.

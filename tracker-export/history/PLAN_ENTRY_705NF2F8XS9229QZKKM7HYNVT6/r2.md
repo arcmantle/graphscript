@@ -1,0 +1,1 @@
+Every runtime function, class, and shared state in a GraphScript project is a graph node. A GraphScript unit has one primary graph-node export and one source file. Do not keep private runtime functions, classes, or shared state outside the graph.

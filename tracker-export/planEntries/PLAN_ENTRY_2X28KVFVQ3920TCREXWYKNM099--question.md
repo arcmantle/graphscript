@@ -1,0 +1,1 @@
+When a developer writes two functions together in the explorer, how are the two function nodes created and edited?

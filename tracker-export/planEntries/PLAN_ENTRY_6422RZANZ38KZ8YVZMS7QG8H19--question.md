@@ -1,0 +1,1 @@
+Should each GraphScript node have one managed TypeScript source file with one kind directive? This would extend the current one-function-per-file rule to one graph-node-per-file for function, class, and state nodes. Recommended: yes. It gives each node one clear source file and keeps node edits separate.

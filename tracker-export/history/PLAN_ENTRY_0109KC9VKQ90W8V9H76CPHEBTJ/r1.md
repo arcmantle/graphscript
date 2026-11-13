@@ -1,0 +1,1 @@
+Each function is an individual graph node. For convenience, the authoring workflow may allow multiple functions to be entered together; the exact grouping behavior remains open.

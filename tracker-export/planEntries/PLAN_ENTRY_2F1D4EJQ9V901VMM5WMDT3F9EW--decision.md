@@ -1,0 +1,1 @@
+GraphScript accepts the full standard TypeScript and JavaScript syntax surface. A valid construct does not become invalid only because the graph analyzer cannot show a static edge for it. The graph shows only static links that it can resolve to managed GraphScript units.

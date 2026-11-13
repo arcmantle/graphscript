@@ -1,0 +1,1 @@
+Does one program entry bundle require all reachable GraphScript runtime code in one physical file, or may the compiler emit internal native ESM modules alongside the entry to preserve module behavior?

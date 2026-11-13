@@ -1,0 +1,29 @@
+{
+	"name": "@arcmantle/graphscript",
+	"version": "0.1.0",
+	"license": "Apache-2.0",
+	"repository": "https://github.com/arcmantle/graphscript.git",
+	"private": true,
+	"engines": {
+		"node": ">=24.11.0"
+	},
+	"bin": {
+		"graphscript": "src/cli.js"
+	},
+	"scripts": {
+		"test": "node --test test/*.test.mjs",
+		"test:graph": "node --test test/graph.test.mjs"
+	},
+	"dependencies": {
+		"@babel/parser": "^7.29.13",
+		"@babel/traverse": "^8.1.0",
+		"@rollup/plugin-commonjs": "^29.0.3",
+		"@rollup/plugin-node-resolve": "^16.0.3",
+		"esbuild": "^0.28.2",
+		"rollup": "^4.68.2",
+		"typescript": "7.0.2"
+	},
+	"devDependencies": {
+		"@types/node": "^24.19.2"
+	}
+}

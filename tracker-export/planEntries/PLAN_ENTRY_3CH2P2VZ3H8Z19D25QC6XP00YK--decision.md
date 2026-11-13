@@ -1,0 +1,1 @@
+Rename and deletion require all affected files to be saved first. Validate the complete operation before changing files. Complete all required changes or leave the project unchanged. Refuse conflicting changes and never overwrite unsaved work. A successful rename preserves the stable node ID and updates the readable name, source filename, and imports that resolve to that ID.

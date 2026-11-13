@@ -1,0 +1,1 @@
+For the first release, each function has its own editable node in the graph explorer.

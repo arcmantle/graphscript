@@ -1,0 +1,1 @@
+Given full TypeScript and JavaScript syntax support and one primary export per GraphScript unit, may a unit contain private runtime functions, classes, or shared state that are not graph nodes? Or must each runtime function, class, and shared state be a managed graph node?

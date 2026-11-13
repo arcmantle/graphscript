@@ -1,0 +1,1 @@
+The user is considering function or class exports and may need exported shared state. This raises a conflict with the current one-function-per-file decision. No change is settled.

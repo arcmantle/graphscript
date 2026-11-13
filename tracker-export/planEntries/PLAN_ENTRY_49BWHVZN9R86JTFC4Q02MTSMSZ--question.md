@@ -1,0 +1,1 @@
+Can a graph node define multiple functions, or does each node define one function?

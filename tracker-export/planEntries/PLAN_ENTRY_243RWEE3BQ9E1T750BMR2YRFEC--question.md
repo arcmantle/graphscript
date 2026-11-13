@@ -1,0 +1,1 @@
+Should each GraphScript node file declare its kind at the top, or should the compiler infer the kind from its contents? JavaScript calls the similar string-literal pattern a directive, as in `"use strict";`. Recommended: use a GraphScript directive to mark the node kind. It gives the editor and compiler a clear file type, especially for state nodes.

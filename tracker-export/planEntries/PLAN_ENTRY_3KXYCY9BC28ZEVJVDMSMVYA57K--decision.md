@@ -1,0 +1,1 @@
+When a function is renamed, the tool also renames its source file to match. Reference updates remain for the function-identity ticket.

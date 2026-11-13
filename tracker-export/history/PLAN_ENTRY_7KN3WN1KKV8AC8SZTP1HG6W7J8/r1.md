@@ -1,0 +1,1 @@
+Can a managed GraphScript unit include additional top-level exports beside its one primary graph-node export? Should it allow those exports without adding graph nodes, or reject them?

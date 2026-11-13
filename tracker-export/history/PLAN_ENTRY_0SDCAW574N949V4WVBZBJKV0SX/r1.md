@@ -1,0 +1,1 @@
+The first release must manage functions, classes, and shared state as GraphScript constructs. It must not require developers to mix GraphScript nodes with normal TypeScript files. The exact node kinds, file rule, and state-sharing rules remain open.

@@ -1,0 +1,1 @@
+The first release provides project setup, node creation, rename, deletion, and builds through both the CLI and VS Code. The graph explorer is the interactive interface; CLI operations also support scripts.

@@ -1,0 +1,1 @@
+A shared mutable value uses a separate state node. Other GraphScript nodes may reference that state node. The exact read and write rules remain open.

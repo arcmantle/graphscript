@@ -1,0 +1,1 @@
+When a function is renamed, should the tool also rename its source file to match the new function name?

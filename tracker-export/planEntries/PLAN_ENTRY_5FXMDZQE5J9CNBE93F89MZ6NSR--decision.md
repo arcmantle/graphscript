@@ -1,0 +1,1 @@
+Project setup offers a choice between a program and a library. A program gets a program-start file with the required directive. A library has no program-start file. Both use the settled managed source and unique-name rules.

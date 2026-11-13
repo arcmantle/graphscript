@@ -1,0 +1,1 @@
+Which TypeScript and JavaScript syntax and type-system features must GraphScript accept in the first release? Decide whether it accepts the standard TypeScript language surface or a documented subset, and how it treats valid TypeScript constructs that do not map to static graph edges.

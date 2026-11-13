@@ -1,0 +1,1 @@
+The focused TypeScript program-bundle test fails because the compiler rejects an external package import after reachable graph-node setup. Hoisting the package import changes the fixture's initialization order; the current guard prevents that change.

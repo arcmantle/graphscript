@@ -1,0 +1,1 @@
+A managed GraphScript unit for one runtime function, class, or shared state object, with one source file and only its primary node exported. It has a stable internal ID and a project-wide unique readable name that changes on rename; ordinary external test files are not graph nodes.

@@ -1,0 +1,1 @@
+Use one special program-start file as the only root. It does not need to define a function. It may contain variables and other code. Mark it with a GraphScript string directive.

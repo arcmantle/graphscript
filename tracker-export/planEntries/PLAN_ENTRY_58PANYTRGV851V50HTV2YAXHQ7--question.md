@@ -1,0 +1,1 @@
+What scope should function-name uniqueness use? Because imports select a function by its readable name through the common alias, can two functions have the same name? Should names be unique across the project, or should imports use a namespace or path to disambiguate duplicate names?

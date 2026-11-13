@@ -1,0 +1,1 @@
+The first release stores each function in its own persistent TypeScript file. The graph explorer manages file creation; developers create functions as nodes rather than creating files by hand.

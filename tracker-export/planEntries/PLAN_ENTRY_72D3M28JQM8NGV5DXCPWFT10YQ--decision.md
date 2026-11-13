@@ -1,0 +1,1 @@
+Function files are the source of truth for function source and are committed to version control.

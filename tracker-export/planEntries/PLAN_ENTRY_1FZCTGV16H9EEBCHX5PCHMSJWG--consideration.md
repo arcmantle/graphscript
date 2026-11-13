@@ -1,0 +1,1 @@
+The first-release model uses graph imports for managed runtime nodes and package imports for external libraries. The current library build also scans and copies relative local helper files; its source rules do not explicitly prohibit those imports. This additional behavior is not established by the package-root issue.

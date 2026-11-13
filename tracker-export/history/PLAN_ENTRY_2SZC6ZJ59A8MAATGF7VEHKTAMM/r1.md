@@ -1,0 +1,1 @@
+Automatically select functions that no other graph node uses as roots.

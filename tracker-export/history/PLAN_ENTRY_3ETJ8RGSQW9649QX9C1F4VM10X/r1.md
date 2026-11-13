@@ -1,0 +1,1 @@
+The compiler will write one output bundle for each root function.

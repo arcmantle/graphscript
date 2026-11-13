@@ -1,0 +1,1 @@
+The user proposes that a state node can export multiple named variables or objects, while a function or class node exports one definition. The main design risk is that dependency links must identify the state binding, or a link to the whole file may be too broad.

@@ -1,0 +1,1 @@
+The first release includes a graph explorer as a VS Code extension.

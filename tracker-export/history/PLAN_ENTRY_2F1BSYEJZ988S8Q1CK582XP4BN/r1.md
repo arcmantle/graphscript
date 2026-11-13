@@ -1,0 +1,1 @@
+How many GraphScript functions can a source file contain: exactly one, or any number?

@@ -1,0 +1,1 @@
+How the graph explorer opens a node for editing remains to be decided in the graph-explorer ticket; the storage choice does not settle it.

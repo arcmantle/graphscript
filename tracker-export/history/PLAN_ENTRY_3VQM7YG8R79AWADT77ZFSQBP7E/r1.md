@@ -1,0 +1,1 @@
+A GraphScript source file can contain multiple functions.

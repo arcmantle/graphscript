@@ -1,0 +1,1 @@
+Should the tool store several function nodes per TypeScript source file while preserving one editable graph node per function?

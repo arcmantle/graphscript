@@ -1,0 +1,1 @@
+Graph edges show runtime dependencies between GraphScript nodes: function calls or value use, class creation or use, and state reads or writes. State edges identify reads and writes. The graph omits type-only references and unused imports.

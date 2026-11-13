@@ -1,0 +1,1 @@
+Refuse deletion of a graph node when other source imports it. List the references and leave the project unchanged. Do not provide forced deletion or remove dependent source automatically.

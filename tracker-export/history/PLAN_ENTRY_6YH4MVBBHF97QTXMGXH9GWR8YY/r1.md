@@ -1,0 +1,1 @@
+Each program starts by calling a function with a predefined name, like the C# program entry point.

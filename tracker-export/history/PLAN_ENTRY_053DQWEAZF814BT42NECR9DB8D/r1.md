@@ -1,0 +1,1 @@
+GraphScript source must not import runtime code through file: URLs, including absolute file URLs and URLs whose source path is not available at the import call. Report an error for file: URL imports. External package imports and compiler-generated imports remain permitted. This is a source and output rule, not a sandbox.

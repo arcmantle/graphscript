@@ -1,0 +1,1 @@
+Each graph node has a stable internal ID. Source uses the node's readable primary-export name, and node names are unique across functions, classes, and state objects. State properties are addressed by the state-node name and property name.

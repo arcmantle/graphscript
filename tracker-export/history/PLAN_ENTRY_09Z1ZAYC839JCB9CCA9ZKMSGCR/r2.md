@@ -1,0 +1,1 @@
+At program start, run the program-start file once, like an IIFE. It can contain variables and other code. Its imports refer to GraphScript functions, classes, and shared state through the shared project namespace, not relative file paths. When an imported file loads, run its top-level code once. Run a function body only when called.

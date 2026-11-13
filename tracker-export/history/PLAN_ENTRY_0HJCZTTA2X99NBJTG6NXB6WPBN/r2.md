@@ -1,0 +1,1 @@
+The first release targets developers starting a small new TypeScript project.

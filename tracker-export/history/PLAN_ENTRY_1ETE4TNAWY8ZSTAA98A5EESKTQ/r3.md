@@ -1,0 +1,1 @@
+A node's setup runs once on first load for one runtime instance. Its exports are cached and shared by importers. This supports state initialization and function or class setup code. A wrapper function is an implementation choice, not a language requirement.

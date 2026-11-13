@@ -1,0 +1,1 @@
+The first release aims to exclude unreachable functions and reduce the number of output files. Reachability, side effects, and the output layout still need rules.

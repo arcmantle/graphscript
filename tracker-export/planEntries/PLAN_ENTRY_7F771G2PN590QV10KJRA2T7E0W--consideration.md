@@ -1,0 +1,1 @@
+The storage choices under discussion are one large file with an ephemeral per-node editing file that is written back on save, or one persistent file per function. The user has not selected either option.

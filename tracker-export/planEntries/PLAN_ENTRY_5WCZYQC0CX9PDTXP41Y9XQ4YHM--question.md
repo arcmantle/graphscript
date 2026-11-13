@@ -1,0 +1,1 @@
+Can GraphScript source files be placed in nested folders under a source root, or must they remain in a single flat folder?

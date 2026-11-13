@@ -1,0 +1,1 @@
+The user proposes that a node's top-level code runs during import-time initialization. This could initialize state or augment a function or class before export. The Plan must define the observable execution rule, including once-only behavior; the compiler's internal wrapper mechanism can remain an implementation choice.

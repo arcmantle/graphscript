@@ -1,0 +1,1 @@
+Should tool-managed function files use readable function names, or stable opaque identifiers, as their file names?

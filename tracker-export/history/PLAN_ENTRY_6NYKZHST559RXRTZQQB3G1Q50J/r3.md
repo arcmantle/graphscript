@@ -1,0 +1,1 @@
+Each function, class, and state node has one managed TypeScript source file with one node-kind directive. This extends the one-function-per-file rule to one-file-per-node.

@@ -1,0 +1,1 @@
+How should the first release persist graph nodes and their function source between sessions: separate text files managed by the tool, one graph document, or a database?

@@ -1,0 +1,1 @@
+Each GraphScript node file uses a namespaced string directive to declare its kind. The current examples are `"use graphscript:function";`, `"use graphscript:class";`, and `"use graphscript:state";`. Exact parsing and placement rules remain open.

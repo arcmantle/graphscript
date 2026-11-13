@@ -1,0 +1,1 @@
+GraphScript v1 accepts external package imports through static ECMAScript imports, dynamic import(), and CommonJS require().

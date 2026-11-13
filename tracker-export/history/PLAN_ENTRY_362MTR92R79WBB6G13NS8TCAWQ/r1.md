@@ -1,0 +1,1 @@
+A state node can export any number of named variables or objects from one managed source file. A function or class node exposes one primary function or class. Whether and when setup code can modify that export remains open.

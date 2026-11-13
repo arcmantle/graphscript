@@ -1,0 +1,1 @@
+Which TypeScript version defines the full language surface for the first release? Should GraphScript use the TypeScript version installed in each project, or require a GraphScript-supported version range?

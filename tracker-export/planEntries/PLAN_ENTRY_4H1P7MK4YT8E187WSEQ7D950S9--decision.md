@@ -1,0 +1,1 @@
+GraphScript v1 uses TypeScript 7 as its language version.

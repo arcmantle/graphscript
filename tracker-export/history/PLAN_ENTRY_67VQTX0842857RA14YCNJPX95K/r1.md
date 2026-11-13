@@ -1,0 +1,1 @@
+Each GraphScript node file declares its node kind at the top with a directive. The exact directive syntax remains open.

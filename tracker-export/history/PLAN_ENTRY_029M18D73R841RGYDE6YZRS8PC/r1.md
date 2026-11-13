@@ -1,0 +1,1 @@
+Which external-package import forms must GraphScript accept in the first release? Decide whether it supports standard static ECMAScript imports only, or also dynamic import() and CommonJS require().

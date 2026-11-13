@@ -1,0 +1,1 @@
+When a local dependency path is computed at runtime and cannot be discovered statically, which files must the library build include, and how does the author specify them?

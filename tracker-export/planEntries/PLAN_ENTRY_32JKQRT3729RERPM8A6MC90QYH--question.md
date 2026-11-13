@@ -1,0 +1,1 @@
+Which identifier should a GraphScript import through the common alias use to select a function: the function name, the managed file path, or a stable function ID? For example, should `import { parse } from "@graphscript"` use the readable function name while the graph keeps a stable ID, or should the import expose another key?

@@ -1,0 +1,1 @@
+What is the destination of this planning effort: a specification for the first usable GraphScript release, a broader language and tooling specification, or another outcome?

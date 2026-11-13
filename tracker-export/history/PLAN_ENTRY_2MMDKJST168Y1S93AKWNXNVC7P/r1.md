@@ -1,0 +1,1 @@
+Where should the tool store function files in a project: one managed directory, managed subdirectories, or user-selected locations?

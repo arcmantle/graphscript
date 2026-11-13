@@ -1,0 +1,1 @@
+When a function is renamed, update every source import that resolves to its stable function ID. The tool also renames the source file to match the function name.

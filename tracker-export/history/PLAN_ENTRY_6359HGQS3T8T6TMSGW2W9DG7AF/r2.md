@@ -1,0 +1,1 @@
+GraphScript source imports use the readable function name through the common alias. The graph resolves that name to a stable function ID. The managed file path is not the lasting import identity.

@@ -1,0 +1,1 @@
+The special GraphScript source file that starts a program. It is marked with the first-statement string directive "graphscript:program";. Its code runs once when the program starts, like an IIFE. It can contain variables and other code and does not need to define a function.

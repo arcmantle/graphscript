@@ -1,0 +1,1 @@
+Each GraphScript node file has one required primary export that matches its directive: a function node exports one function, a class node exports one class, and a state node exports one object. The primary export name is the node's readable name. The state object can contain multiple shared values.
